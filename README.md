@@ -15,7 +15,7 @@ Create a Codespace
 ------------------
 Within dev mode, by clicking the 'Debug and Run' button you can create a new Codespace. 
 
-<img title="create_codespace" src="https://user-images.githubusercontent.com/73284641/136187241-8634b746-df3f-4c79-9221-85659bd5a464.png" width="90%">
+<img title="create_codespace" src="https://user-images.githubusercontent.com/73284641/137713700-c99ce7ca-08c3-4bfb-88a2-ee57e92b0c58.png" width="90%">
 
 If you haven't already done so, you can import your code from your personal files by clicking File > Open File. 
 
