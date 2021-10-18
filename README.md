@@ -38,7 +38,7 @@ To commit the changes, enter a message and click the check mark. This button wil
 
 Report a Bug
 ------------------
-Now that your repository is ready, click [here](https://github.com/ent/ent/issues/new/choose) to submit an issue on the ent/ent repository.   
+Now that your repository is ready, click [here](https://github.com/ent/ent/issues/new/choose) to submit an issue on the Ent repository.   
 
 Within your issue give some context and link your new repository, and you're done!
 
