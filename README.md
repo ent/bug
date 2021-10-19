@@ -13,7 +13,7 @@ Once creating the desired repository, press `.` (period key) from the main repos
 
 Create a Codespace
 ------------------
-Within dev mode, by clicking the 'Debug and Run' button you can create a new Codespace. 
+Within dev mode, by clicking the 'Run and Debug' button you can create a new Codespace. 
 
 <img title="create_codespace" src="https://user-images.githubusercontent.com/73284641/137713700-c99ce7ca-08c3-4bfb-88a2-ee57e92b0c58.png" width="90%">
 
