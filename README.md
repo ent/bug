@@ -25,6 +25,24 @@ Inside Codespaces
 ------------------
 Once you're inside Codespaces with your desired code, you can edit, run and debug it.
 
+**Editing**
+
+Let's say you want to edit the template `ent/schema`. For example, add a field named `title` to the `User` schema.
+
+In `ent/schema/user.go`:  
+
+<img title="edit_user" src="https://user-images.githubusercontent.com/73284641/138644354-7c0c51e1-cfb6-4b20-9e40-c275cea352dc.png" width="90%">
+
+To generate this, we will run the command `go generate ./ent` in the Codespaces terminal. 
+
+To see if the command worked successfully, we can see that changes were made to files (files on the left-hand side became yellow, meaning changes were made that were not staged yet). Also, we can check inside `ent/user/user.go` if our field was added: 
+
+<img title = "user changes" src="https://user-images.githubusercontent.com/73284641/138584753-270bf1a7-ab8e-4daa-b71b-b77ab417013c.png" width="90%">
+
+To learn more about working with `ent`, click [here](https://entgo.io/docs/getting-started/).  
+
+**Saving Changes** 
+
 If you have made changes to your code, by clicking on 'Source Control' you can directly stage, commit and push them into the repository.
 
 By clicking the '+' you can stage your changes.
