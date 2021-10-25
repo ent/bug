@@ -39,7 +39,7 @@ To see if the command worked successfully, we can see that changes were made to 
 
 <img title = "user changes" src="https://user-images.githubusercontent.com/73284641/138584753-270bf1a7-ab8e-4daa-b71b-b77ab417013c.png" width="90%">
 
-To learn more about working with `ent`, click [here](https://entgo.io/).  
+To learn more about working with `ent`, click [here](https://entgo.io/docs/getting-started/).  
 
 **Saving Changes** 
 
