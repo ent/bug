@@ -27,7 +27,7 @@ Once you're inside Codespaces with your desired code, you can edit, run and debu
 
 **Editing**
 
-Let's say you want to edit the template `ent` schema. For example, let's add the field `title` to User.
+Let's say you want to edit the template `ent/schema`. For example, add a field named `title` to the `User` schema.
 
 In `ent/schema/user.go`:  
 
