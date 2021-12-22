@@ -9,7 +9,7 @@ In order to do so, click 'Use this template' and create your repository.
 
 Upload your desired code into the new repository.
 
-If your happen to be a GitHub Teams or GitHub Enterprise customer you alternatively can choose to do so directly in the Codespace. Proceed to read if you want to learn how.
+If you happen to be a GitHub Teams or GitHub Enterprise customer you can alternatively choose to do so directly in the Codespace. Proceed to read if you want to learn how.
 
 Once creating the desired repository, press `.` (period key) from the main repository page to switch over to dev mode. 
 
