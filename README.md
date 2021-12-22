@@ -7,7 +7,9 @@ In order to do so, click 'Use this template' and create your repository.
 
 <img title="use_template" src="https://user-images.githubusercontent.com/73284641/137712207-684ede15-2113-46f1-a214-461976cf10b3.png" width="90%">
 
-Upload your desired code into the new repository, or alternatively you can also choose to do so directly into the Codespace (we will see how to do this in a later step).
+Upload your desired code into the new repository.
+
+If you happen to be a GitHub Teams or GitHub Enterprise customer you can alternatively choose to do so directly in the Codespace. Proceed to read if you want to learn how.
 
 Once creating the desired repository, press `.` (period key) from the main repository page to switch over to dev mode. 
 
