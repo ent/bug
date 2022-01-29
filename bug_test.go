@@ -7,13 +7,13 @@ import (
 	"strconv"
 	"testing"
 
-	"entgo.io/bug/ent"
-	"entgo.io/bug/ent/enttest"
 	"entgo.io/ent/dialect"
-
 	_ "github.com/go-sql-driver/mysql"
 	_ "github.com/lib/pq"
 	_ "github.com/mattn/go-sqlite3"
+
+	"entgo.io/bug/ent"
+	"entgo.io/bug/ent/enttest"
 )
 
 func TestBugSQLite(t *testing.T) {
@@ -33,7 +33,7 @@ func TestBugMySQL(t *testing.T) {
 	}
 }
 
-func TestBugPostrgres(t *testing.T) {
+func TestBugPostgres(t *testing.T) {
 	for version, port := range map[string]int{"10": 5430, "11": 5431, "12": 5432, "13": 5433, "14": 5434} {
 		t.Run(version, func(t *testing.T) {
 			client := enttest.Open(t, dialect.Postgres, fmt.Sprintf("host=localhost port=%d user=postgres dbname=test password=pass sslmode=disable", port))
